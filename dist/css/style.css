@@ -1,0 +1,1 @@
+*{font-family:"Gill Sans","Gill Sans MT",Calibri,"Trebuchet MS",sans-serif;max-width:90%}section .galleria{display:flex;justify-content:center;margin-top:50px}section .galleria .carousel{display:flex;overflow:hidden}section .galleria .carousel img{width:0%;transition:transform .3s ease-in-out}section .galleria .carousel img:hover{transform:scale(1.2)}
